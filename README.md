@@ -90,11 +90,11 @@ Mi sueño es convertirme en un Gran programador a mí 53 años de vida, si no qu
 -   [Descarga del Jetstream ](composer require laravel/Jetstream)
 -   [instalación de jetstream ](php artisan jetstream:install livewire)
 -   [Configruración de la migracion de usuarios ]
--   [Inlalación de NPM](npm install)
+-   [Instalación de NPM](npm install)
 -   [compilacion ](npm run dev)
 -   [Creacion Rutas de middlewere]
 -   [Creacion de middlewere]
 -   En este punto estamos trabajando en el middlewere para crear las desviaciones de las rutas, continuamos en el kernel para darles de alta, Luego procedemos a darle de alta en los Providers/RouteServiseProvider, removemos el dashboard por la raíz /
 -   [dar permiso de rurtas en los Middlewarea en los archivos creados corrección mirar](if(Auth::user()->Campo === 'Condición'))
--   [cremación de Repositorio en GitHob]
--   [cremación y compilación para producción en heroku]
+-   [creación de Repositorio en GitHob]
+-   [creación y compilación para producción en heroku]
