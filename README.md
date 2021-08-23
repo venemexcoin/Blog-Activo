@@ -70,18 +70,22 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Block Activo Fecha Inicio 22/08/2021
 
+
 Hola, este proyecto es con el fin de realizar una practica tal cual, es en la vida normal de un programador que para mí es importante,
 Tratare de ser lo más especifico del caso, llevando anotaciones como una guiá, detallada no esperó que lean esto solo estoy practicando.
 Mi sueño es convertirme en un Gran programador a mí 53 años de vida, si no quedará para la posteridad algún día guisás en mucho tiempo alguien lo lea y se haga la pregunta y este de que habla jajja solo es mi vición de documentación
 
+
 ### Proyecto en laravel 8 con livewire
 
+
 -   [Comenzamos creando un proyecto laravel en blanco ](https://laravel.com/docs/8.x/installation).
--   [Instalación via composer de Livewire](composer require livewire/livewire)
+-   [Instalación vi a composer de Livewire](composer require livewire/livewire)
 -   [creamos la base de datos local]
 -   [ Actualizamos el archivo .env, colocamos los parámetro de la base de datos, ]
 
--   [ En este proyecto trabajaremos primero la instalación del template que vamos a ocupar, haciendo una carpeta layouts y un arvhivo base.blade]
+
+-   [ En este proyecto trabajaremos primero la instalación del template que vamos a ocupar, haciendo una carpeta layouts y un archivo base.blade]
 -   [Creacion de rutas de Home]
 -   [Descarga del Jetstream ](composer require laravel/Jetstream)
 -   [instalación de jetstream ](php artisan jetstream:install livewire)
@@ -90,7 +94,7 @@ Mi sueño es convertirme en un Gran programador a mí 53 años de vida, si no qu
 -   [compilacion ](npm run dev)
 -   [Creacion Rutas de middlewere]
 -   [Creacion de middlewere]
--   En este punto estamos trabajando en el middlewere para crear las desviaciones de las rutas, continuamos en el kernel para darles de alta, Luedo procedemos a darle de alta en los Providers/RouteServiseProvider, removewmos el dashboard por la raiz /
--   [dar permiso de rurtas en los Middlewarea en los archivos creados corrección mirar](if(Auth::user()->Campo === 'Condicion'))
--   [creacion de Repositorio en GitHob]
--   [creacion y copilacion para producción en heroku]
+-   En este punto estamos trabajando en el middlewere para crear las desviaciones de las rutas, continuamos en el kernel para darles de alta, Luego procedemos a darle de alta en los Providers/RouteServiseProvider, removemos el dashboard por la raíz /
+-   [dar permiso de rurtas en los Middlewarea en los archivos creados corrección mirar](if(Auth::user()->Campo === 'Condición'))
+-   [cremación de Repositorio en GitHob]
+-   [cremación y compilación para producción en heroku]
