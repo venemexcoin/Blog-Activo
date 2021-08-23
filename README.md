@@ -93,3 +93,4 @@ Mi sueño es convertirme en un Gran programador a mí 53 años de vida, si no qu
 -   En este punto estamos trabajando en el middlewere para crear las desviaciones de las rutas, continuamos en el kernel para darles de alta, Luedo procedemos a darle de alta en los Providers/RouteServiseProvider, removewmos el dashboard por la raiz /
 -   [dar permiso de rurtas en los Middlewarea en los archivos creados corrección mirar](if(Auth::user()->Campo === 'Condicion'))
 -   [creacion de Repositorio en GitHob]
+-   [creacion y copilacion para producción en heroku]
